@@ -1,0 +1,13 @@
+C:\Users\Heather\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.csprojAssemblyReference.cache
+C:\Users\Heather\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.csproj.CoreCompileInputs.cache
+C:\Users\Heather\source\repos\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+C:\Users\Heather\source\repos\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+C:\Users\Heather\source\repos\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+C:\Users\Heather\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+C:\Users\Heather\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+E:\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+E:\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+E:\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+E:\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+E:\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+E:\Chapter06\Chapter06\obj\Debug\Chapter06.csprojResolveAssemblyReference.cache
